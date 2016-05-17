@@ -1,4 +1,0 @@
-UpdateCommand ="UPDATE Week SET
-                        Час=@Час, Вид роботи=@Вид_роботи, Місце роботи,телефон=@Місце_роботи,телефон
-                            WHERE IDnum=@IDnum"
-                        >
