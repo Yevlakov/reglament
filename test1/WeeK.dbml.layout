@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Week">
+  <DataContextMoniker Name="/WeekDataContext" />
+  <nestedChildShapes>
+    <classShape Id="480d1c66-ed51-482c-a007-aacca3323e20" absoluteBounds="0.75, 1.25, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/WeekDataContext/Week" />
+      <nestedChildShapes>
+        <elementListCompartment Id="48133838-06d0-4f97-bb9e-f1d088e354a9" absoluteBounds="0.76499999999999968, 1.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

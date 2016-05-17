@@ -1,0 +1,45 @@
+D:\C#-web\test1\test1\bin\test1.dll
+D:\C#-web\test1\test1\bin\test1.pdb
+D:\C#-web\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+D:\C#-web\test1\test1\obj\Debug\test1.dll
+D:\C#-web\test1\test1\obj\Debug\test1.pdb
+D:\C#-web\test1 — копия\test1\bin\test1.dll
+D:\C#-web\test1 — копия\test1\bin\test1.pdb
+D:\C#-web\test1 — копия\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+D:\C#-web\test1 — копия\test1\obj\Debug\test1.dll
+D:\C#-web\test1 — копия\test1\obj\Debug\test1.pdb
+D:\C#-web\Проб\new-19.04\test1\test1\bin\test1.dll
+D:\C#-web\Проб\new-19.04\test1\test1\bin\test1.pdb
+D:\C#-web\Проб\new-19.04\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+D:\C#-web\Проб\new-19.04\test1\test1\obj\Debug\test1.dll
+D:\C#-web\Проб\new-19.04\test1\test1\obj\Debug\test1.pdb
+D:\new-19.04-регламент\test1\test1\bin\test1.dll
+D:\new-19.04-регламент\test1\test1\bin\test1.pdb
+D:\new-19.04-регламент\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+D:\new-19.04-регламент\test1\test1\obj\Debug\test1.dll
+D:\new-19.04-регламент\test1\test1\obj\Debug\test1.pdb
+D:\new-19.04-регламент\пробник\test1\bin\test1.dll
+D:\new-19.04-регламент\пробник\test1\bin\test1.pdb
+D:\new-19.04-регламент\пробник\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+D:\new-19.04-регламент\пробник\test1\obj\Debug\test1.dll
+D:\new-19.04-регламент\пробник\test1\obj\Debug\test1.pdb
+D:\Регламент\пробник\test1\bin\test1.dll
+D:\Регламент\пробник\test1\bin\test1.pdb
+D:\Регламент\пробник\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+D:\Регламент\пробник\test1\obj\Debug\test1.dll
+D:\Регламент\пробник\test1\obj\Debug\test1.pdb
+D:\Регламент\+\пробник\test1\bin\test1.dll
+D:\Регламент\+\пробник\test1\bin\test1.pdb
+D:\Регламент\+\пробник\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+D:\Регламент\+\пробник\test1\obj\Debug\test1.dll
+D:\Регламент\+\пробник\test1\obj\Debug\test1.pdb
+C:\Users\Vladislav\Desktop\пробник\test1\bin\test1.dll
+C:\Users\Vladislav\Desktop\пробник\test1\bin\test1.pdb
+C:\Users\Vladislav\Desktop\пробник\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\пробник\test1\obj\Debug\test1.dll
+C:\Users\Vladislav\Desktop\пробник\test1\obj\Debug\test1.pdb
+C:\Users\Vladislav\Desktop\пробник ++\test1\bin\test1.dll
+C:\Users\Vladislav\Desktop\пробник ++\test1\bin\test1.pdb
+C:\Users\Vladislav\Desktop\пробник ++\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav\Desktop\пробник ++\test1\obj\Debug\test1.dll
+C:\Users\Vladislav\Desktop\пробник ++\test1\obj\Debug\test1.pdb
